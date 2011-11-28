@@ -3,7 +3,7 @@
 #
 # General configuration
 #
-DEFAULT_BRANCH="3.1/master"
+DEFAULT_BRANCH="3.2/master"
 INSTALL_SKELETON=1
 LOCAL_CONFIG="$HOME/.kohana.conf"
 
